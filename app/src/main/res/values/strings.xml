@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="title">Dice Roller</string>
+    <string name="compose_camp">Welcome to Compose Camp!</string>
+    <string name="compose_button">Enter the Compose World!</string>
+</resources>
